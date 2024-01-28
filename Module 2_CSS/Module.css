@@ -9,6 +9,7 @@ body {
     font-color:black;
     font-size: 60px;
     }
+
     * {
         box-sizing: border-box;
     }
@@ -44,11 +45,12 @@ body {
         text-align: center;
         font-size: 125%;
         font-weight: bold;
-        background-color: #FFB6C1;
+        Font-color: black;
+        background-color: Pink;
 
     }
 
-    .sub2 {
+    .row2 {
         float: right;
         color: white;
         width: 100px;
@@ -58,11 +60,11 @@ body {
         text-align: center;
         font-size: 125%;
         font-weight: bold;
-        background-color: #FF0000;
+        background-color: red;
 
     }
 
-    .sub3 {
+    .row3 {
         color: black;
         float: right;
         width: 100px;
@@ -76,11 +78,10 @@ body {
 
     }
 
-    .content {
+    .rowcontent {
         padding: 5px;
-        border: none;
         background-color: gray;
-        font-family: Helvetica;
+        font-family: Arial;
         color: black;
         margin: 3px ;
         height: 150px;
