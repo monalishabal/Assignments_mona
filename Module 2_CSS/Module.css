@@ -1,10 +1,9 @@
-/*basic style*/
 body {
         background-color: white;
     }
 
     h1 {
-       margin-bottom: 20px;
+       margin: 20px;
     text-align: center;
     font-color:black;
     font-size: 60px;
@@ -40,7 +39,7 @@ body {
         float: right;
         width: 100px;
         padding: 5px;
-        margin: -3px -3px 0px;
+        margin: -4px -4px 0px;
         border: 3.5px solid black;
         text-align: center;
         font-size: 125%;
@@ -55,7 +54,7 @@ body {
         color: white;
         width: 100px;
         padding: 5px;
-        margin: -3px -3px 0px;
+        margin: -4px -4px 0px;
         border: 3.5px solid black;
         text-align: center;
         font-size: 125%;
@@ -69,7 +68,7 @@ body {
         float: right;
         width: 100px;
         padding: 5px;
-         margin: -3px -3px 0px;
+         margin: -4px -4px 0px;
         border: 3.5px solid black;
         text-align: center;
         font-size: 125%;
