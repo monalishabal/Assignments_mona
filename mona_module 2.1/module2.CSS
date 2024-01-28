@@ -1,21 +1,22 @@
- * {
+  * {
         box-sizing: border-box;
     }
 
-body {
+    body {
         background-color: white;
     }
 
     h1 {
-       margin: 20px;
+       margin-bottom: 15px;
     text-align: center;
-    font-color:black;
-    font-size: 60px;
+    color: #ff4532;
+    font-size: 50px;
     }
+
     section {
         position: relative;
         padding: 15px;
-        width: 80%;
+        width: 90%;
     }
 
     p {
@@ -26,7 +27,7 @@ body {
     div {
         position: relative;
         background-color: gray;
-        border: 3 px solid black;
+        border: 3.5px solid black;
         width: 100%;
         margin-left: auto;
         margin-right: auto;
@@ -37,13 +38,12 @@ body {
         float: right;
         width: 100px;
         padding: 5px;
-        margin: -4px -4px 0px;
+        margin: -3px -3px 0px;
         border: 3.5px solid black;
         text-align: center;
         font-size: 125%;
         font-weight: bold;
-        Font-color: black;
-        background-color: Pink;
+        background-color: #FFB6C1;
 
     }
 
@@ -52,12 +52,12 @@ body {
         color: white;
         width: 100px;
         padding: 5px;
-        margin: -4px -4px 0px;
+        margin: -3px -3px 0px;
         border: 3.5px solid black;
         text-align: center;
         font-size: 125%;
         font-weight: bold;
-        background-color: red;
+        background-color: #FF0000;
 
     }
 
@@ -66,7 +66,7 @@ body {
         float: right;
         width: 100px;
         padding: 5px;
-         margin: -4px -4px 0px;
+         margin: -3px -3px 0px;
         border: 3.5px solid black;
         text-align: center;
         font-size: 125%;
@@ -77,8 +77,9 @@ body {
 
     .rowcontent {
         padding: 5px;
+        border: none;
         background-color: gray;
-        font-family: Arial;
+        font-family: Helvetica;
         color: black;
         margin: 3px ;
         height: 150px;
