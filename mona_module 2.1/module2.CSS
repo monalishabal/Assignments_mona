@@ -1,3 +1,7 @@
+ * {
+        box-sizing: border-box;
+    }
+
 body {
         background-color: white;
     }
@@ -8,12 +12,6 @@ body {
     font-color:black;
     font-size: 60px;
     }
-
-    * {
-        box-sizing: border-box;
-    }
-
-
     section {
         position: relative;
         padding: 15px;
